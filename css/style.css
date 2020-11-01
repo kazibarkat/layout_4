@@ -1,0 +1,27 @@
+.wrapper{
+    min-height: 600px;
+    background: red;
+    width: 1200px;
+}
+.header{
+    min-height: 100px;
+    background: blanchedalmond;
+}
+.container{
+    min-height: 400px;
+    background: black;
+    overflow: hidden;
+}
+.col1{
+    width: 50%;
+    background: #0b8686;
+    min-height: 400px;
+    float: left;
+}
+.col2{
+    width: 50%;
+    min-height: 400px;
+    float: left;
+    background: blue;
+}
+.footer{min-height: 100px;background: blueviolet;}
